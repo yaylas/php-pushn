@@ -21,7 +21,7 @@ class GCM {
  
         $fields = array(
             'registration_ids' => $registatoin_ids,
-            'data' => ['alertBody' => "fbody","alertTitle" =>"yooo","key" =>"naber faruk" ]
+            'data' => ['alertBody' => "fbody","alertTitle" =>"title","key" =>"value" ]
         );
  
         $headers = array(
